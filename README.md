@@ -1,6 +1,6 @@
 Great Tech Guides
 
-Checkout these guides and many more on our blog:
+Checkout these guides and many more on our (https://htmlblog.net/) :
 
 https://htmlblog.net/open-html-file-on-iphone/
 
